@@ -4,7 +4,7 @@ A simple rigid body physics solver with collisions. Primarily meant to be an ent
 
 ## Features
 * Custom gravity
-* Easy to use RigidBody component, with convience methods for common operations such as adding torque, impulse, applying force at a specific position, etc.
+* Easy to use RigidBody component, with convenience methods for common operations such as adding torque, impulse, applying force at a specific position, etc.
 * Kinematic and non kinematic bodies.
 * Extendible Collider component for different collider types, using rust's powerful enums.
 * Custom collision surfaces with tunable friction and bounce values.
